@@ -26,9 +26,9 @@ SPRINGBOOT, HIBERNATE, MYSQL CRUD REST API
 Bu projede springboot, hibernate ve mySQL veritabanını kullanarak web servisleri oluşturuldu.
 CRUD(Create, Read, Update, Delete) işlemleri gerçekleştirildi. Çalışan ve şirket bilgilerinin
 yönetildiği uygulamada gerçekleştirilen işlemler;
-1)Sistemde yeni çalışan veya şirket kaydı oluşturma
-2)Kayıtlı tüm çalışan veya şirket verilerini görüntüleme
-3)Belirli bir id’ye sahip çalışan veya şirket verisini görüntüleme
+1) Sistemde yeni çalışan veya şirket kaydı oluşturma
+2) Kayıtlı tüm çalışan veya şirket verilerini görüntüleme
+3) Belirli bir id’ye sahip çalışan veya şirket verisini görüntüleme
 4) Belirli bir id’ye sahip çalışan veya şirket verisini güncelleme
 5) Belirli bir id’ye sahip çalışan veya şirket verisini silme
 
